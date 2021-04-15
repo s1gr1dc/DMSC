@@ -16,4 +16,7 @@ We then used all of our seperate works andd combined all the code collectively t
 ![Screen Shot 2021-04-15 at 1.47.41 PM.png]({{site.baseurl}}/Screen Shot 2021-04-15 at 1.47.41 PM.png)
 
 [https://editor.p5js.org/sofiajaramillo/sketches/-5A3rq7Vx](https://editor.p5js.org/sofiajaramillo/sketches/-5A3rq7Vx)
-Overall I really enjoyed the experience of working on something like this with my classmates. I'm really passionate in making my own figures and objects using shapes in things like p5.js or processing, and I felt conifdent in being able to provide these visuals for my group. Although I felt that I wasn't as skilled as Ishan and Sofia, in other aspects, being able to meet with them, view their code and processes as well as collaborate was deffinitely valuable. 
+Overall I really enjoyed the experience of working on something like this with my classmates. I'm really passionate in making my own figures and objects using shapes in things like p5.js or processing, and I felt conifdent in being able to provide these visuals for my group. Although I felt that I wasn't as skilled as Ishan and Sofia, in other aspects, being able to meet with them, view their code and processes as well as collaborate was deffinitely valuable.
+
+Fullscreen:
+https://editor.p5js.org/sofiajaramillo/full/-5A3rq7Vx
