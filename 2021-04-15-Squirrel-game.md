@@ -19,4 +19,4 @@ We then used all of our seperate works andd combined all the code collectively t
 Overall I really enjoyed the experience of working on something like this with my classmates. I'm really passionate in making my own figures and objects using shapes in things like p5.js or processing, and I felt conifdent in being able to provide these visuals for my group. Although I felt that I wasn't as skilled as Ishan and Sofia, in other aspects, being able to meet with them, view their code and processes as well as collaborate was deffinitely valuable.
 
 Fullscreen:
-https://editor.p5js.org/sofiajaramillo/full/-5A3rq7Vx
+[https://editor.p5js.org/sofiajaramillo/full/-5A3rq7Vx](https://editor.p5js.org/sofiajaramillo/full/-5A3rq7Vx)
