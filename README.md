@@ -9,3 +9,5 @@ Delog for Drawing, Moving, Seeing with Code
 [Hydra Experimentation](2021-04-07-Hydra.md)
 
 [Squirrel Game](2021-04-15-Squirrel-game.md)
+
+[Final Project](2021-05-17-final-project.md)
