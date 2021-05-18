@@ -1,8 +1,7 @@
 
 
 
-###
-DMSC Final project 
+### DMSC Final project 
 
 For my final project, I created a 4 level circus themed obstacle game, that uses keys to navigate a small character through passing objects to reach the top of the screen. The game begins with an obstacle of balloons that are being generated at random height and width within the canvas passing from left to right, and a small clown character that represents the player. The object of the game is to move upwards through the passing objects to reach the next level. When the next level is reached the visuals of the game change, as well the background music and what the passing objects are. Along with the change in visuals and ambience, the clown having to navigate through the passing object increases in size with each level change, making each level more difficult than the last. If you can pass the last level, it brings you back to level 1 and restores the size of the player. Since the passing objects are generated randomly each time it runs, the game can sometimes be really easy but other times it can be super challenging to advance. I reccommend trying to playthrough until the end more than once to see what I mean. 
 
@@ -20,4 +19,4 @@ The biggest challenge that I faced in the creation of my project was trying to c
 
 
 Editor version: 
-https://editor.p5js.org/s1gr1dc/sketches/iHT6di-eI
+[https://editor.p5js.org/s1gr1dc/sketches/iHT6di-eI](https://editor.p5js.org/s1gr1dc/sketches/iHT6di-eI)
